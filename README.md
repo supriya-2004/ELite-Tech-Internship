@@ -1,4 +1,4 @@
-# Elite Tech Internship - Cybersecurity
+# Elite Tech Internship - Cybersecurity Domain
 
 ## Task 1: Caesar Cipher Encryption & Decryption
 
