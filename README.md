@@ -23,3 +23,16 @@ Develop a **simple image encryption tool** using **pixel manipulation**. The pro
 ✅ Decrypts images back to their original form.  
 ✅ Uses **pixel swapping** and **mathematical operations** for encryption.  
 ✅ Ensures image security through pixel-level transformations.  
+
+---
+
+## Task 3: Password Complexity Checker  
+
+### 🔒 Problem Statement  
+Develop a tool that evaluates password strength based on factors like length, uppercase & lowercase letters, numbers, and special characters. The tool provides real-time feedback, helping users create stronger, more secure passwords.
+
+### ✨ Features  
+✅ Checks password strength based on security criteria.  
+✅ Provides feedback on how to improve weak passwords.  
+✅ Ensures better password security practices.  
+✅ Simple and effective tool for cybersecurity awareness.  
